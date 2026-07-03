@@ -3,7 +3,7 @@
 <!-- ================================================================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamedali%20Jinna%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Full-Stack%20Engineer%20%7C%20Laravel%20Architect%20%7C%20SaaS%20Platform%20Specialist&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamedali%20Jinna%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Full-Stack%20Engineer%20%7C%20Engineering%20Lead%20%7C%20SaaS%20Platform%20Specialist%20%7C%2013%2B%20Years&descAlignY=62&descSize=16" />
 
 <!-- ================================================================== -->
 <!-- 2. TYPING HEADER -->
@@ -142,7 +142,7 @@ echo $engineer->motto();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohamedali-jinna&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=mohamedalijinna&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
 </div>
 
@@ -154,7 +154,7 @@ echo $engineer->motto();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedali-jinna&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedalijinna&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -166,7 +166,7 @@ echo $engineer->motto();
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedali-jinna&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedalijinna&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
