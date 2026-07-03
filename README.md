@@ -9,7 +9,7 @@
 <!-- 2. TYPING HEADER -->
 <!-- ================================================================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer+%7C+13%2B+Years;Laravel+%7C+PHP+%7C+React.js+%7C+Vue.js;Microservices+Architect+%26+Tech+Lead;Building+Scalable+SaaS+%26+B2B+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Engineering+Lead+%7C+Senior+Full+Stack+Engineer;API+%26+Integration+Specialist;Laravel+%7C+PHP+%7C+React.js+%7C+Vue.js;Microservices+Architect+%26+Tech+Lead;Building+Scalable+SaaS+%26+B2B+Platforms)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mohamedalijinna&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
 
