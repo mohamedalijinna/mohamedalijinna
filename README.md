@@ -9,9 +9,9 @@
 <!-- 2. TYPING HEADER -->
 <!-- ================================================================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Engineering+Lead+%7C+13%2B+Years+in+SaaS+%26+Enterprise+Systems;Laravel+%2B+Vue.js+%2B+React.js+Architect;Building+Multi-Tenant+Platforms+for+100%2C000%2B+Users;SSO+%7C+Payments+%7C+API+Integrations+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer+%7C+13%2B+Years;Laravel+%7C+PHP+%7C+React.js+%7C+Vue.js;Microservices+Architect+%26+Tech+Lead;Building+Scalable+SaaS+%26+B2B+Platforms)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=mohamedali-jinna&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=mohamedalijinna&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
 
 </div>
 
